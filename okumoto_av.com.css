@@ -1,0 +1,26 @@
+ body{
+   font-family:"Avenir Next";
+ }
+   .header-logo{
+ font-size:50px;
+ font-family:"Avenir Next";
+ background-color:pink;
+ height:20px;
+ padding:50px 30px;
+ margin:auto;
+ color:white
+}
+.copy-container{
+  padding: 100px 100px;
+  font-size: 40px;
+  ext-align: center;
+  color:#9966ff;
+  background-image: url(https://erogazou-sikotthi.com/wp-content/uploads/2019/12/29-20191227234921erogazou-mikamiyua.jpg);
+  background-size:cover;
+  height:400px;
+}
+
+footer{
+  background-color:pink;
+  color:white;
+}
